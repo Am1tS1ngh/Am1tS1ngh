@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Am1tS1ngh
 - 👀 I’m interested in code
-- 🌱 I’m currently learning Data Science 
-- 💞️ I’m looking to collaborate on Python Seekers
+- 🌱 I’m currently working as a Backend engineer
+- 💞️ I’m looking to collaborate on MERN projects
+- 🏆 I have a strong proficiency in MongoDB and its App services, Realm
 - 📫 Reach me → theamitsingh21@gmail.com
 
 <!---
